@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(255, 177, 75);
+}
+header{
+    background-color: rgb(255, 248, 209);
+}
+h1{
+    color: rgb(255, 151, 14);
+}
+h2{
+    color: black;
+}
+.pagina1{
+    text-align: center;
+    overflow: auto;
+}
+#queijo1{
+    display: block;
+    float: left;
+    margin-right: 50px;
+    width: 50px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 50px;
+}
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    height: auto;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 10px solid;
+    border-radius: 10px;
+    border-style: bold;
+}
+#banner1{
+    display: block;
+    float: left;
+    margin-right: 100%;
+    width: 100%;
+}
+#banner2{
+    display: block;
+    float: left;
+    margin-right: 100%;
+    width: 100%;
+}
+#banner3{
+    display: block;
+    float: left;
+    margin-right: 100%;
+    width: 100%;
+}
+
+
+
+
+
+
